@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# My random activity worker
+
+activity=$(curl -s  https://www.boredapi.com/api/activity | jq '.activity' -r);
+echo {\"activity\":\""$activity"\"}
