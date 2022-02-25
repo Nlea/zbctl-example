@@ -7,9 +7,9 @@ This repo contains a bpmn diagramm with set properties for [Camunda Cloud](https
 
 ## Install zbctl client
 The client is available via:
--[npm](https://www.npmjs.com/package/zbctl)
--[snap](https://snapcraft.io/zbctl)
--[homebrew](https://formulae.brew.sh/formula/zbctl)
+- [npm](https://www.npmjs.com/package/zbctl) 
+- [snap](https://snapcraft.io/zbctl) 
+- [homebrew](https://formulae.brew.sh/formula/zbctl) 
 
 
 ## Set enviroment variables
