@@ -4,6 +4,7 @@ This repo contains a bpmn diagramm with set properties for [Camunda Cloud](https
 ## Prerequirements
 - [Camunda Cloud Account](https://docs.camunda.io/docs/guides/getting-started/)
 - [Create client connection credentials](https://docs.camunda.io/docs/guides/getting-started/setup-client-connection-credentials/)
+- [Deploy the process from this repo to your Camunda Cloud Cluster](https://docs.camunda.io/docs/guides/getting-started/deploy-your-process-and-start-process-instance/#deploy-and-start-your-process-instance)
 
 ## Install zbctl client
 The client is available via:
